@@ -6,7 +6,9 @@
 
 Click here to get your [CLIENT ID](https://api.imgur.com/oauth2/addclient)
 
-The function selects the input["input-image"] and directly uploads it to the imgur server and in response returns a url.
+The function selects the **input["input-image"]** and directly uploads it to the imgur server and in response returns a url.
+
+**SAMPLE RESPONSE**
 
 ```
 {data: {…}, success: true, status: 200}
