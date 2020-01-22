@@ -1,4 +1,4 @@
-# Imgur Upload Function
+# Imgur Upload Function ⚡
 
 ## Prerequisites
 
